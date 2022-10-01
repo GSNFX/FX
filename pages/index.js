@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Corporate Foreign Exchange Services" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Business and Commercial Solutions for FX Risk Management. <code>pages/index.js</code>
         </p>
       </main>
 
