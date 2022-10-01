@@ -13,7 +13,8 @@ export default function Home() {
       <main>
         <Header title="Corporate Foreign Exchange Services" />
         <p className="description">
-          Business and Commercial Solutions for FX Risk Management. <code>pages/index.js</code>
+          Business and Commercial Solutions for FX Risk Management. 
+    <a href="https://gsnfx.co.uk/">Corporate Foreign Exchange</a>
         </p>
       </main>
 
